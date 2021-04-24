@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 public class PredicateStudent {
-    static Predicate<Student> gpaStudentPredicate = student -> student.getGoal() > 3;
+    public static Predicate<Student> gpaStudentPredicate = student -> student.getGoal() > 1;
     static Predicate<Student> gradeAndGpaPredicate=student -> student.getGradeLevel()>2 && student.getGoal()>2;
     static List<Student> students = StudentDatabse.getAllStudents();
 
