@@ -9,14 +9,20 @@ public class Student {
     private double goal;
     private String gender;
 
-    /*public Student(String name, int gradeLevel, double goal, String gender) {
+    public Student(String name, int gradeLevel, double goal, String gender, List<String> activities) {
         this.name = name;
         this.gradeLevel = gradeLevel;
         this.goal = goal;
         this.gender = gender;
-    }*/
+        this.activities = activities;
+    }
+
     public Student() {
 
+    }
+
+    public Student(String s) {
+        this.name=s;
     }
 
     public String getName() {
@@ -59,6 +65,10 @@ public class Student {
 
     public void setActivities(List<String> activities) {
         this.activities = activities;
+    }
+
+    public void printActivities() {
+        activities.forEach(System.out::println);
     }
 
     @Override
