@@ -8,12 +8,21 @@ public class Student {
     private int gradeLevel;
     private double goal;
     private String gender;
-
+    private int noteBooks;
     public Student(String name, int gradeLevel, double goal, String gender, List<String> activities) {
         this.name = name;
         this.gradeLevel = gradeLevel;
         this.goal = goal;
         this.gender = gender;
+        this.activities = activities;
+    }
+
+    public Student(String name, int gradeLevel, double goal, String gender, int noteBooks, List<String> activities) {
+        this.name = name;
+        this.gradeLevel = gradeLevel;
+        this.goal = goal;
+        this.gender = gender;
+        this.noteBooks = noteBooks;
         this.activities = activities;
     }
 
@@ -31,6 +40,14 @@ public class Student {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int getNoteBooks() {
+        return noteBooks;
+    }
+
+    public void setNoteBooks(int noteBooks) {
+        this.noteBooks = noteBooks;
     }
 
     public int getGradeLevel() {
