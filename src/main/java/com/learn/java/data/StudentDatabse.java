@@ -3,10 +3,16 @@ package com.learn.java.data;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 import java.util.function.Supplier;
 
 public class StudentDatabse {
-    public static Supplier<Student> studentSupplier = () -> new Student("Kuber", 2, 3, "Male", Arrays.asList("Coaching", "Teaching"));
+    public static Supplier<Student> studentSupplier = () -> {
+        Bike bike=new Bike("Bajaj","Palser 125");
+     Student student=   new Student("Kuber", 2, 3, "Male", Arrays.asList("Coaching", "Teaching"));
+     student.setBike(Optional.ofNullable(bike));
+     return student;
+    };
 
     public static List<Student> getAllStudents() {
         Student student1 = new Student();

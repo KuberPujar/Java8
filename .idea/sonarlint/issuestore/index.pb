@@ -89,13 +89,13 @@ r
 Bsrc/main/java/com/learn/java/streams/StreamsOfIterateGenerate.java,1\4\147309932712109b6a8d69c52ffacceeb238aace
 x
 Hsrc/main/java/com/learn/java/streamsterminal/StreamsSumingAveraging.java,8\6\86a5ad00051c37aaaa649602ac3896466e70af45
-^
-.src/main/java/com/learn/java/data/Student.java,c\1\c1502a7a12ebd2bed4f4a52ceb0d3f48325449c5
 n
 >src/main/java/com/learn/java/functional/StudentBiFunction.java,3\9\39f712b0e2832ef0b5d7baf5ac01e9248df7f11e
-e
-5src/main/java/com/learn/java/data/StudentDatabse.java,0\3\0393e2db9488de5835a438bc0abdb3742d905442
 g
 7src/main/java/com/learn/java/functional/SupplierEx.java,a\6\a611321d5a6b9bb6ee5751e02f10aca9bedc654d
 l
 <src/main/java/com/learn/java/functional/UnaryOperatorEx.java,8\5\85fdc641048f28b11c967829151ad54c3fa7fba5
+q
+Asrc/main/java/com/learn/java/streamsterminal/StreamGroupngBy.java,b\2\b2dc51b59dc95f13284a4c7dc720f14511af94f3
+u
+Esrc/main/java/com/learn/java/streamsterminal/StreamsPartitioning.java,e\7\e7fee10325a25e7834debb2a713718e756163f5a
