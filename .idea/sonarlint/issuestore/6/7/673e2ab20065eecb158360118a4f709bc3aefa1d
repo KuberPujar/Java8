@@ -1,0 +1,9 @@
+
+\
+java:S1192	"FDefine a constant instead of duplicating this literal "kuber" 3 times.(ž¶·©
+p
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ÐöÝ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ž¶·©
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÿÖÌ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼‹Ë¢üÿÿÿÿ

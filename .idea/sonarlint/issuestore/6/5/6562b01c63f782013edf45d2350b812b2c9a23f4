@@ -1,0 +1,25 @@
+
+X
+java:S2184%"BCast one of the operands of this division operation to a "double".(„±¬«
+R
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(àÀÂşÿÿÿÿ
+H
+java:S3655%"2Call "sum.isPresent()" before accessing the value.(„±¬«
+R
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(–è“¶úÿÿÿÿ
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(Ü»§á
+E
+java:S6212
+"/Declare this local variable with "var" instead.(ËÇİ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àÀÂşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü»§á
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–è“¶úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ùóµ›şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(–€¢¼şÿÿÿÿ
+S
+java:S1197("8Move the array designator from the variable to the type.(ÔÓéşÿÿÿÿ
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¢Áòÿÿÿÿÿ
+o
+java:S3012-"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(…õúä

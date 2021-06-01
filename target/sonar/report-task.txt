@@ -1,0 +1,6 @@
+projectKey=groupId:Java8
+serverUrl=http://127.0.0.1:9000
+serverVersion=8.8.0.42792
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=groupId%3AJava8
+ceTaskId=AXkm8tksHgtR7rTtxeyQ
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AXkm8tksHgtR7rTtxeyQ

@@ -169,3 +169,11 @@ a
 1src/main/java/com/learn/java/dates/InstantEx.java,e\a\ea846a36ae1679daa605a5166c9d738752439849
 f
 6src/main/java/com/learn/java/dates/ZoneDateTimeEx.java,8\f\8f76bf7c7402c98abab7ce01e1286c109cd34cb5
+m
+=src/main/java/com/learn/java/dates/FormatLocalDateTimeEx.java,e\f\eff41a609b0dc8a846d828f903bb13c08d97d220
+j
+:src/main/java/com/learn/java/challenges/CharFrequency.java,a\5\a583d006cf256f4d9d24ea490b01fc70fbb99b6e
+k
+;src/main/java/com/learn/java/challenges/DigitFrequency.java,c\8\c84963d4a8067227d34f6c934c1d415202168111
+f
+6src/main/java/com/learn/java/challenges/HashMapEx.java,6\3\635ad38e6f29172db3ea62146130f013b6ee169d

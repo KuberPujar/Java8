@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×ş„ 
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(öó¢
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(øëÕ
+g
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(¯öÒÖ
+J
+java:S6212"/Declare this local variable with "var" instead.(²±Íäùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°è­‡üÿÿÿÿ

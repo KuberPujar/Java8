@@ -1,0 +1,13 @@
+
+V
+java:S3516"9Refactor this method to not always return the same value.(ß¡÷Ò8ö©û”/
+f
+java:S2583
+"DChange this condition so that it does not always evaluate to "false"(—¨ıÿÿÿÿ8•ö©û”/
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(à¹Á½8•ö©û”/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÖ¾Øıÿÿÿÿ8£Ì¦û”/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à©Üïøÿÿÿÿ8…Õ§û”/
+]	java:S125"<This block of commented-out lines of code should be removed.(™Êæáûÿÿÿÿ8ñ£©û”/
+I
+java:S2201"'The return value of "get" must be used.(·¡œãÿÿÿÿÿ8ˆÌ©û”/

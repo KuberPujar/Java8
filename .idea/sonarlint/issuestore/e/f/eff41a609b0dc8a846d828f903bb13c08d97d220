@@ -1,0 +1,38 @@
+
+\
+java:S1854"FRemove this useless assignment to local variable "dateTimeFormatter1".(ŞòÄÊ
+X
+java:S1854"=Remove this useless assignment to local variable "dateTime3".(™·Âşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ï–â‰
+J
+java:S6212"/Declare this local variable with "var" instead.(©Êô‰úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤¦Îİ
+D
+java:S6212"/Declare this local variable with "var" instead.(·¥™
+J
+java:S6212"/Declare this local variable with "var" instead.(ºŠöúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·‡æ
+D
+java:S6212"/Declare this local variable with "var" instead.(íÑ¾C
+J
+java:S6212"/Declare this local variable with "var" instead.(ƒ¤’¿øÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(É“íÒûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°Ä‰Ÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(™·Âşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ŞòÄÊ
+E
+java:S6212"/Declare this local variable with "var" instead.(Ä¦õÀ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(à“ÿÙùÿÿÿÿ
+E
+java:S6212'"/Declare this local variable with "var" instead.(ŞòÄÊ
+E
+java:S6212("/Declare this local variable with "var" instead.(†¤À 
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¿ûìûÿÿÿÿ
+I
+java:S1481".Remove this unused "dateTime3" local variable.(™·Âşÿÿÿÿ
+M
+java:S1481"7Remove this unused "dateTimeFormatter1" local variable.(ŞòÄÊ

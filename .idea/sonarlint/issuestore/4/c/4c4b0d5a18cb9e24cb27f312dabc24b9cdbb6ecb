@@ -1,0 +1,22 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¹Şúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¹Şúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¹Şúÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ù¸Ÿ¾”/
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùü™‹ÿÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–»…Ñ
+V	java:S125"<This block of commented-out lines of code should be removed.(§¬›„ıÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¹Şúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(µ±Úğúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ÿ½¸Çüÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ùü™‹ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙØÊ²
+E
+java:S6212"/Declare this local variable with "var" instead.(æÕ¿¼

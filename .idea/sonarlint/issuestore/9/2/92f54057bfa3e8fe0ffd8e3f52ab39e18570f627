@@ -1,0 +1,15 @@
+
+K
+java:S1611"5Remove the parentheses around the "student" parameter(ûàŸ˜
+B
+java:S1602",Remove useless curly braces around statement(ûàŸ˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôêï‚ÿÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(èû­Šıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÅÛ»ÿÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(ì¡‹®şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁŞ®“
+E
+java:S1611"/Remove the parentheses around the "s" parameter(í½×®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í½×®

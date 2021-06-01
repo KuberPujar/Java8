@@ -1,0 +1,13 @@
+
+T
+java:S1444
+"9Make this "public static gpaStudentPredicate" field final(Ù‡“ˆÿÿÿÿÿ
+z
+java:S1104
+"_Make gpaStudentPredicate a static final constant or non-public and provide accessors if needed.(Ù‡“ˆÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áñşµ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„íí
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•û€Ú
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(„íí
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ôìæÿÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(„íí

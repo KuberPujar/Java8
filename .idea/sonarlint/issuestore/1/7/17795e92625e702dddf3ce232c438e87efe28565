@@ -1,0 +1,11 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(»ñ¶šÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(­î’³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­î’³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À‚¤€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íûáé
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Šâ³u

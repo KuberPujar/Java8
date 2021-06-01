@@ -1,0 +1,15 @@
+
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ê÷Ø
+E
+java:S6212
+"/Declare this local variable with "var" instead.(æÕ¿¼
+E
+java:S6212"/Declare this local variable with "var" instead.(Šõ™
+E
+java:S6212"/Declare this local variable with "var" instead.(İ„‘ˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éáçÔûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üß†ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àØÅ

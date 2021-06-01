@@ -1,0 +1,17 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éáê´üÿÿÿÿ
+R
+java:S3655W"7Call "optional.isPresent()" before accessing the value.(‘›ãışÿÿÿÿ
+M
+java:S3655A"2Call "sum.isPresent()" before accessing the value.(ŞœÜüÿÿÿÿ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(ìøõŒşÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ
+M
+java:S1197D"8Move the array designator from the variable to the type.(¸ğ¸v
+o
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á›ŞÍ
+o
+java:S3012I"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(…õúä

@@ -1,0 +1,31 @@
+
+K
+java:S1444
+"5Make this "public static studentSupplier" field final(ÖŞ›‰
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Cricket" 3 times.(®é×áÿÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "Jumpping" 4 times.(®é×áÿÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Reading" 4 times.(®é×áÿÿÿÿÿ
+q
+java:S1104
+"[Make studentSupplier a static final constant or non-public and provide accessors if needed.(ÖŞ›‰
+P
+java:S1118	":Add a private constructor to hide the implicit public one.( í²–
+L
+java:S6212"/Declare this local variable with "var" instead.(‹ğ†8²†¡Œ–/
+J
+java:S6212"/Declare this local variable with "var" instead.(ğõ«üÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(øÛ‚øÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¥‘¦Ì
+J
+java:S6212""/Declare this local variable with "var" instead.(¥¼Ø½øÿÿÿÿ
+E
+java:S6212*"/Declare this local variable with "var" instead.(Ò—‡
+J
+java:S62122"/Declare this local variable with "var" instead.(åÆ´âüÿÿÿÿ
+J
+java:S6212:"/Declare this local variable with "var" instead.(×ŞŞ‘ıÿÿÿÿ

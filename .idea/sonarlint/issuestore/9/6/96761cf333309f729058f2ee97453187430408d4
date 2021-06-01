@@ -1,0 +1,9 @@
+
+>
+java:S1604	"(Make this anonymous inner class a lambda(Û•óù
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê–¶Ïúÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÃœÌüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÃœôÿÿÿÿÿ
